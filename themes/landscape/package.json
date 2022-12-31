@@ -1,12 +1,28 @@
 {
-  "name": "hexo-theme-landscape",
-  "version": "0.0.2",
-  "private": true,
-  "devDependencies": {
-    "grunt": "~0.4.2",
-    "load-grunt-tasks": "~0.2.0",
-    "grunt-git": "~0.2.2",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-copy": "~0.4.1"
-  }
+  "name": "hexo-theme-zhaoo",
+  "version": "2.0.2",
+  "description": "A simple theme for Hexo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoo/hexo-theme-zhaoo.git"
+  },
+  "keywords": [
+    "hexo-theme-zhaoo",
+    "hexo",
+    "theme",
+    "simple"
+  ],
+  "author": {
+    "name": "zhaoo",
+    "email": "izhaoo@163.com",
+    "url": "https://www.izhaoo.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoo/hexo-theme-zhaoo/issues"
+  },
+  "homepage": "https://github.com/zhaoo/hexo-theme-zhaoo#readme"
 }
