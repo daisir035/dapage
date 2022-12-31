@@ -46,7 +46,7 @@ background_image:
 
 # Loading
 loading:
-  gif: https://media.giphy.com/media/gKQpVNZ8Cuh4qEln68/giphy.gif
+  gif: /images/theme/giphy.gif
   lottie:
 
 # Preview
@@ -239,7 +239,7 @@ lazyload:
   enable: true
   only_post: false
   loading:
-    gif: https://media.giphy.com/media/gKQpVNZ8Cuh4qEln68/giphy.gif
+    gif: /images/theme/giphy.gif
     lottie:
 
 # FancyBox
