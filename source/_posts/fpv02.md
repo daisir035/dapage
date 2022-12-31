@@ -19,7 +19,7 @@ image: /img/IMG_6660.JPG
 回来才发现把镜头炸飞了... 等天黑了和通子哥打手电去找。 
 
 CMOS有点好看的
-![美丽CMOS](/img/IMG_6681.JPG)
+![美丽CMOS](/img/IMG_6681.jpg)
 
 # DJI变焦航拍
 
