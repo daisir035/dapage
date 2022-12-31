@@ -15,11 +15,18 @@ image: /img/IMG_6699.JPG
 
 VR03有自动对频和DVR录制, 但是sd卡之前存了喷喷录像,没录成功
 
-
-
-
 # 快速救援
 
-通子哥的大疆太灵活了,还可以开灯.Crazy!
+戴上眼镜爽飞!  
 
-<iframe src="//player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+天太黑还是炸机了,以下是搜救画面
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div class="responsive-video-container">
+  <iframe src="https://player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+<iframe src="https://player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1" allowfullscreen="allowfullscreen" width="100%" height="300px" scrolling="no" frameborder="no" framespacing="0"></iframe>
+通子哥的大疆太灵活了,还可以开灯.Crazy!
