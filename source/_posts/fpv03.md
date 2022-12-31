@@ -21,6 +21,6 @@ VR03有自动对频和DVR录制, 但是sd卡之前存了喷喷录像,没录成�
 ![高达形态出击](/img/123.jpg)
 
 天太黑还是炸机了,以下是搜救画面
-<iframe src="https://player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1"allowfullscreen="allowfullscreen" scrolling="no" frameborder="no" framespacing="0" style="width: 600px; height: 450px; max-width: 100%；align:center; padding:20px 0;"></iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1"allowfullscreen="allowfullscreen" scrolling="no" frameborder="no" framespacing="0" style="width: 100%; height: 450px; max-width: 100%；align:center; padding:20px 0;"></iframe>
 
 通子哥的大疆太灵活了,还可以开灯.Crazy!
