@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 上电起飞！
+title: 上电起飞!
 date: 2022-12-30 23:28:09
 tags:
 image: /img/IMG_6660.JPG

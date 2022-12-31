@@ -15,8 +15,11 @@ image: /img/IMG_6699.JPG
 
 VR03有自动对频和DVR录制, 但是sd卡之前存了喷喷录像,没录成功
 
+
+
+
 # 快速救援
 
 通子哥的大疆太灵活了,还可以开灯.Crazy!
 
-![img](/img/IMG_6685.JPG)
+<iframe src="//player.bilibili.com/player.html?aid=477104450&bvid=BV1kK41117nV&cid=945579683&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
