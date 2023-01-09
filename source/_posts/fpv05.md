@@ -3,7 +3,7 @@ layout: docs
 title: Bye
 date: 2023-1-3 18:42:42
 tags:
-image: /img/ligh.jpg
+image: /img/11.jpg
 ---
 # 这是一个总结篇
 <!--more-->
@@ -18,11 +18,12 @@ image: /img/ligh.jpg
 碳板炸断  
 电机烧坏
 飞控固件损坏  
-还好淘宝上碳板补件只要15￥，图传掉的件太小只能找人修，报价在10-40￥
+还好淘宝上碳板补件只要15￥  
+图传掉的件太小只能找人修，报价在10-40￥
 ![有电烙铁也没用](/img/han.jpg)
 地面站刷写固件研究了好久，基本弄明白了，不小心改了电机转向又浪费了许多时间。
 昨天非常难过....还得复习今天的数学考试  
 
 # 封箱咯
 明年再飞吧！就要回家了，可以玩一玩dji air2s.想起很久之前看到的一个视频《坠落置地》拍的太好了，我也想拍这个！
-<iframe src="//player.bilibili.com/player.html?aid=598798162&bvid=BV1YB4y1k7iA&cid=785789348&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=598798162&bvid=BV1YB4y1k7iA&cid=785789348&page=1"allowfullscreen="allowfullscreen" scrolling="no" frameborder="no" framespacing="0" style="width: 100%; height: 450px; max-width: 100%；align:center; padding:20px 0;"></iframe>
