@@ -38,7 +38,7 @@ favicon:
 
 # Font
 font:
-  size: 14px
+  size: 20px
   family:
 
 # Background Image
@@ -149,13 +149,13 @@ toc:
 
 # Donate
 donate:
-  enable: true
+  enable: false
   alipay: https://pic.izhaoo.com/alipay.jpg
   wechat: https://pic.izhaoo.com/wechat.jpg
 
 # Copyright
 post_copyright:
-  enable: true
+  enable: false
 
 # Carrier（copy article with one click）
 carrier:

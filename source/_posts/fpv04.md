@@ -6,7 +6,7 @@ tags:
 image: /img/ligh.jpg
 ---
 
-![](/img/ligh.jpg)
+![](/img/light.jpg)
 
 
 <!--more-->
