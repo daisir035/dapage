@@ -3,7 +3,7 @@ layout: docs
 title: 光绘
 date: 2023-1-3 18:42:42
 tags:
-image: /img/ligh.png
+image: /img/ligh.jpg
 ---
 # 这是一个总结篇
 <!--more-->
