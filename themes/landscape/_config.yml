@@ -84,12 +84,12 @@ social:
   qq: tencent://message/?Menu=yes&uin=894519210 || iconQQ || '#12B7F5'
   wechat: javascript:; || iconwechat-fill || '#09BB07'
   instagram: https://www.instagram.com/izhaoo/ || iconinstagram || '#DA2E76'
-  github: https://github.com/zhaoo || icongithub-fill || '#9f7be1'
-  email: mailto:izhaoo@163.com || iconmail
+  github: https://github.com/daisir035 || icongithub-fill || '#9f7be1'
+  email: daisir035@gmail.com || iconmail
 
 # Override Scrollbar
 scrollbar:
-  type: simple # default | simple | normal | none
+  type: normal # default | simple | normal | none
 
 # Fab (Float Action Button)
 fab:
