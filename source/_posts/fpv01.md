@@ -15,7 +15,7 @@ image: /img/IMG_6648.JPG
 
 
 机架：AstroRC小薯片75机架
-电池：betafpv 450mAh 鹰氪 500mAh
+电池：betafpv450mAh/鹰氪500mAh
 遥控：BETAFPV三代
 电设：BETAFPV Meteor75mm
 摄像头：ANT
