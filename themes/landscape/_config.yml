@@ -86,7 +86,7 @@ social:
   instagram: https://www.instagram.com/izhaoo/ || iconinstagram || '#DA2E76'
   github: https://github.com/daisir035 || icongithub-fill || '#9f7be1'
   email: daisir035@gmail.com || iconmail
-  bilibili:  daisir035@gmail.com || iconmail
+  bilibili:  daisir035@gmail.com || iconbilibili
 # Override Scrollbar
 scrollbar:
   type: normal # default | simple | normal | none
