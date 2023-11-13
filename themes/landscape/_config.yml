@@ -56,8 +56,8 @@ preview:
   background:
     type: image # image video
     default_image:
-      light: /images/theme/22.JPG
-      dark: /images/theme/22.JPG
+      light: /images/theme/123.png
+      dark: /images/theme/123.png
     video:
     api: # https://source.unsplash.com/random/1920x1080
     size: cover # css: background-size
@@ -86,7 +86,7 @@ social:
   instagram: https://www.instagram.com/izhaoo/ || iconinstagram || '#DA2E76'
   github: https://github.com/daisir035 || icongithub-fill || '#9f7be1'
   email: daisir035@gmail.com || iconmail
-
+  bilibili:  daisir035@gmail.com || iconmail
 # Override Scrollbar
 scrollbar:
   type: normal # default | simple | normal | none
